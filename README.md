@@ -141,8 +141,8 @@ pip install numpy torch matplotlib
 ## ▶️ Cara Menjalankan
 
 ```bash
-git clone <url-repo-ini>
-cd <nama-folder-repo>
+git clone https://github.com/alfarabihe/0.2_Matrix-Operations-and-Manual-Differentiation/
+cd 0.2_Matrix-Operations-and-Manual-Differentiation
 jupyter notebook Operasi_Matriks_dan_Turunan_Manual.ipynb
 ```
 
