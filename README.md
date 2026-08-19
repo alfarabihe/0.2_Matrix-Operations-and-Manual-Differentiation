@@ -16,11 +16,13 @@ dua operasi paling dasar di balik neural network: perkalian matriks dan turunan/
 
 ```
 Operasi_Matriks_dan_Turunan_Manual.ipynb
+INTERPRETASI.md
 ```
 
 | File | Deskripsi |
 |---|---|
 | `Operasi_Matriks_dan_Turunan_Manual.ipynb` | Notebook utama: implementasi, eksperimen, dan penjelasan teori |
+| `INTERPRETASI.md` | Pembahasan interpretatif atas setiap output notebook — memaknai angka verifikasi kebenaran hasil, perbandingan waktu eksekusi, dan kecocokan gradien manual vs. `autograd` dalam konteks teori di baliknya. |
 
 ---
 
