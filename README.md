@@ -1,4 +1,4 @@
-# Operasi Matriks dan Turunan Manual
+# Matrix Operations and Manual Differentiation
 
 <div align="center">
 
