@@ -152,8 +152,9 @@ dari loop manual; ketiga hasil numerik identik) akan tetap konsisten.
 
 ---
 
-## 📌 Catatan
+## 📌 Lisensi & Disclaimer
 
+- Project ini dilisensikan di bawah [MIT License](LICENSE).
 - Notebook ini bersifat **edukatif**, bukan untuk keperluan produksi — implementasi manual dengan
   `for`-loop sengaja dibuat naif agar mudah dipahami, bukan untuk dioptimasi.
 - Fokus utama adalah membangun **intuisi konseptual**: neural network = operasi matriks berlapis,
