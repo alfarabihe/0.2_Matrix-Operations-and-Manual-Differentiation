@@ -3,8 +3,8 @@
 <div align="center">
 
 [![License](https://img.shields.io/github/license/alfarabihe/Ising-Model-for-Public-Opinion.svg?color=brightgreen)](https://github.com/alfarabihe/0.2_Matrix-Operations-and-Manual-Differentiation/blob/master/LICENSE)
-[![X](https://img.shields.io/badge/X-Share-black?logo=x)](https://twitter.com/intent/tweet?text=Ising-Model-for-Public-Opinion%20&url=https://github.com/alfarabihe/Ising-Model-for-Public-Opinion&hashtags=IsingModel,Simulation) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Falfarabihe%2FIsing-Model-for-Public-Opinion)
+[![X](https://img.shields.io/badge/X-Share-black?logo=x)](https://twitter.com/intent/tweet?text=Matrix%20Operations%20and%20Manual%20Differentiation&url=https://github.com/alfarabihe/0.2_Matrix-Operations-and-Manual-Differentiation/&hashtags=NeuralNetwork,DeepLearning,Matrix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Falfarabihe%2F0.2_Matrix-Operations-and-Manual-Differentiation%2F)
 
 </div>
 
